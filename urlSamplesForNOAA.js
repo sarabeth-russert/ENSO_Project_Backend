@@ -1,0 +1,132 @@
+// wind sends all wind files
+//https://www.pmel.noaa.gov/cgi-tao/cover.cgi?
+// P1=wind&
+// P2=dy&
+// P3=ascii&
+// P4=2015&
+// P5=12&
+// P6=21&
+// P7=2016&
+// P8=4&
+// P9=30&
+// P10=165&
+// P11=165&
+// P12=8&
+// P13=8&
+// P14=tt&
+// P15=None&
+// P16=anonymous&
+// P17=anonymous&
+// P18=central%20washington%20university&
+// P19=educational%20purposes&
+// P20=disdel_drupal&
+// P21=mean&
+// P22=mean&
+// P23=tser&
+// script=disdel/xyzt-html-v75.csh
+
+// just air
+//https://www.pmel.noaa.gov/cgi-tao/cover.cgi?
+// P1=airt&
+// P2=dy&
+// P3=ascii&
+// P4=2015&
+// P5=12&
+// P6=21&
+// P7=2016&
+// P8=4&
+// P9=30&
+// P10=165&
+// P11=165&
+// P12=8&
+// P13=8&
+// P14=tt&
+// P15=None&
+// P16=anonymous&
+// P17=anonymous&
+// P18=central%20washington%20university&
+// P19=educational%20purposes&
+// P20=disdel_drupal&
+// P21=mean&
+// P22=mean&
+// P23=tser&
+// script=disdel/xyzt-html-v75.csh
+
+// just air
+//https://www.pmel.noaa.gov/cgi-tao/cover.cgi?
+// P1=wind&
+// P2=dy&
+// P3=ascii&
+// P4=2015&
+// P5=12&
+// P6=21&
+// P7=2016&
+// P8=4&
+// P9=30&
+// P10=165&
+// P11=165&
+// P12=8&
+// P13=8&
+// P14=tt&
+// P15=None&
+// P16=anonymous&
+// P17=anonymous&
+// P18=central%20washington%20university&
+// P19=educational%20purposes&
+// P20=disdel_drupal&
+// P21=mean&
+// P22=mean&
+// P23=tser&
+// script=disdel/xyzt-html-v75.csh
+
+// a bunch
+// https://www.pmel.noaa.gov/cgi-tao/cover.cgi?
+// P1=met.sss.dyn&
+// P2=dy&
+// P3=2015&
+// P4=12&
+// P5=21&
+// P6=2016&
+// P7=4&
+// P8=30&
+// P9=ascii&
+// P10=None&
+// P11=anonymous&
+// P12=anonymous&
+// P13=central%20washington%20university&
+// P14=educational%20purposes&
+// P15=buoy&
+// P16=disdel_drupal&
+// P17=mean&
+// P18=mean&
+// P19=tser&
+// P20=site&
+// P21=8n165e&
+// script=disdel/deliv-buoy-disdel-v79.csh
+
+// via html
+// https://www.pmel.noaa.gov/cgi-tao/cover.cgi?
+// P1=deliv&
+// P2=sst&
+// P3=dy&
+// P4=2015&
+// P5=12&
+// P6=21&
+// P7=2016&
+// P8=4&
+// P9=30&
+// P10=buoy&
+// P11=ascii&
+// P12=None&
+// P13=tt&
+// P14=anonymous&
+// P15=&
+// P16=anonymous&
+// P17=&
+// P18=180&
+// P19=265&
+// P20=-8&
+// P21=9&
+// p22=html&
+// p32=8n165e&
+// script=disdel%2Fnojava.csh&
